@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "524216381053",
+    "firebase_url": "https://rentcalculator-35494.firebaseio.com",
+    "project_id": "rentcalculator-35494",
+    "storage_bucket": "rentcalculator-35494.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524216381053:android:999dff1d78244162",
+        "android_client_info": {
+          "package_name": "com.example.omarbrito.rentcalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524216381053-8gisfd4d5lrp63th3qn05mgnba6n1s0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYI2mhNHLhffZU99qmUF272ya3DT2ZNeE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
